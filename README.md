@@ -6,9 +6,9 @@ La idea clara es utilizar esta herramienta para procesar datos.
 
 El contenido de la libreta que está contenida es:
 
--Fórmulas
--Condicionales
--Librerías
+- Fórmulas
+- Condicionales
+- Librerías
 
 (Edit:23.02.23)
 
